@@ -5,7 +5,7 @@
 
 - 🔭 I work on MERN stack.
 - 🌱 I’m currently exploring Data Sturucture and Algorithm.
-- :bookmark_tabs: Give it a look [resume](https://drive.google.com/file/d/1kvmjlGkCVH4Ef_sz_ROEfZeBrjYvkRTe/view)
+- :bookmark_tabs: Give it a look [resume](https://drive.google.com/file/d/1Rz1z4VOtZzSF8hs1gUIlDPJ8j3PRvS80/view)
 - 📫 How to reach me: sauravkumar080999@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav1423&show_icons=true&locale=en" alt="saurav1423" /></p>
